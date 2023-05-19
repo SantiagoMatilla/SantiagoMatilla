@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello there 👋
+My name is Santiago Matilla and I´m from Oviedo, Asturias, in the north of Spain.
+
+I´m junior frontend developer in training at Factoria F5.
 
 <!--
 **SantiagoMatilla/SantiagoMatilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
